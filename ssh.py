@@ -6,7 +6,7 @@ import fileinput
 import re
 import crypt
 import spwd
-print("Wellcome To Mr-Killer Bot Script !\n id : @SirTe3la\n")
+print("Wellcome To X-Te3la Bot Script !\n id : @SirTe3la\n")
 portt = input("Enter Your Server Port : ")
 host = input("Enter Your Domin(no http) : ")
 token = input("Enter Bot Token : ")
