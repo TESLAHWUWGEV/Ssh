@@ -1,7 +1,7 @@
 import subprocess
 import time
 subprocess.call(["clear"])
-print("Wellcome To X-Killer Bot Script !\n id : @SirTe3la\n")
+print("Wellcome To X-Te3la Bot Script !\n id : @SirTe3la\n")
 time.sleep(5)
 subprocess.run(["sudo", "apt-get", "remove", "python3.8" , "-y"])
 subprocess.run(["sudo", "apt-get", "remove", "python3-pip", "-y"])
